@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 H3Y, 1'M H4M1DR
 
 <table>
