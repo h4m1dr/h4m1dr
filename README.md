@@ -1,11 +1,14 @@
 ## 👋 H3Y, 1'M H4M1DR
 
+## 👋 H3Y, 1'M H4M1DR
+
+<br/>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-right: 20px;">
 
 ### 👋 Hey, I'm Hamid.
-
 
 I’m a physics-trained developer exploring the intersection of  
 **Particle Physics**, **Machine Learning**, and **automation engineering**.
@@ -14,18 +17,17 @@ I work with data-heavy pipelines, write **Python backends**,
 build **headless crawlers**, design **custom ML workflows**,  
 and often experiment with tools used in high-energy physics simulations.
 
-I enjoy turning complex systems into minimal, elegant solutions 
+I enjoy turning complex systems into minimal, elegant solutions—  
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
-
 </td>
-<td width="50%" valign="top">
 
-  
+<td width="50%" valign="top" style="padding-left: 20px;">
+
 ### 🧩 Personal Stuff
 
-- 🌎 Based in **Iran**  
+- 🌎 Based in **Tehran, Iran**  
 - 🎓 Background in **Particle Physics** (M.Sc.)  
 - 🧠 Skills: Python, ML, data engineering, automation, headless tooling  
 - 🔬 Familiar with scientific stacks: **ROOT**, **Geant4**, **MadGraph**, **Pythia**  
@@ -33,10 +35,10 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 - 🧱 Currently exploring advanced ML applications in particle physics  
 - 💬 Always open to ideas, collaboration, or technical discussions  
 
-
 </td>
 </tr>
 </table>
+
 
 ---
 
