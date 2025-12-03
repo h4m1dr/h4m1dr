@@ -39,3 +39,4 @@ jobs:
           commit_message: "chore: update ascii github activity"
           branch: main
           file_pattern: README.md
+          push_options: '--force-with-lease'
