@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-right: 20px;">
+<td width="50%" valign="top" style="padding-right: 0px;">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -21,7 +21,7 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
 
-<td width="50%" valign="top" style="padding-left: 20px;">
+<td width="50%" valign="top" style="padding-left: 0px;">
 
 ### 🧩 Personal Stuff
 
