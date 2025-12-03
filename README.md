@@ -1,10 +1,12 @@
 ## 👋 H3Y, 1'M H4M1DR
 
+## 👋 H3Y, 1'M H4M1DR
+
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top" style="padding-right: 20px;">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -19,9 +21,9 @@ I enjoy turning complex systems into minimal, elegant solutions—
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
-</td>
+    </td>
 
-<td width="50%" valign="top" style="padding-left: 20px;">
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
 
 ### 🧩 Personal Stuff
 
@@ -33,8 +35,8 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 - 🧱 Currently exploring advanced ML applications in particle physics  
 - 💬 Always open to ideas, collaboration, or technical discussions  
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
