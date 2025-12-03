@@ -1,7 +1,5 @@
 ## 👋 H3Y, 1'M H4M1DR
 
-## 👋 H3Y, 1'M H4M1DR
-
 <br/>
 
 <table>
