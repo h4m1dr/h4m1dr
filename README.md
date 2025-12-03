@@ -67,10 +67,10 @@ Tools, languages, and other things that I like to work with.
 
 ### ⏰ Coding Activity (This Week)
 
-```text
+```md
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-````
+```
 
 ---
 
@@ -78,7 +78,7 @@ Tools, languages, and other things that I like to work with.
 
 > Real GitHub contributions for the last 7 days (commits, PRs, issues, etc.)
 
-```text
+```md
 <!--START_SECTION:ascii-week-->
 # waiting for first update...
 
@@ -98,7 +98,7 @@ Sat  0 |
 
 > Real GitHub contributions aggregated monthly.
 
-```text
+```md
 <!--START_SECTION:ascii-month-->
 # waiting for first update...
 
