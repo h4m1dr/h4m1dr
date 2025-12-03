@@ -1,3 +1,6 @@
+---
+
+````md
 ## Hi there 👋
 
 <!-- HEADER -->
@@ -7,10 +10,11 @@
 ---
 
 ## 🔥 1NTRODUCT10N
-Hi, I'm **h4m1dr** — a backend developer who enjoys building fast, minimal and efficient systems.  
+
+Hi, I'm **h4m1dr** — a backend developer who enjoys building fast, minimal, and efficient systems.  
 I mostly work with **Node.js**, **Python**, **MTProto**, **Telegram Bots**, and various **Linux server tools**.
 
-I believe in writing code that *just works*, and monitoring systems that fail as little as possible.
+I believe in writing code that *just works*, and monitoring systems that scream in logs before they die.
 
 ---
 
@@ -50,30 +54,28 @@ Tools, languages, and other things that I like to work with.
   </tr>
 </table>
 
-
-
 ---
 
 ## 📌 P1NN3D PR0J3CT5
+
 - **MTProMonitorbot-Node** – A modern MTProto proxy monitoring bot  
-- **MTProMonitorbot-python** – Python version of the monitoring bot w/ auto-installer  
-- **Multifon** – Lightweight Telegram utility toolkit  
-- and more…
+- **MTProMonitorbot-python** – Python version with auto-installer & scripts  
+- **Multifon** – Lightweight Telegram / MTProto utility toolkit  
+- More tools and optimizations coming soon…
 
 ---
 
 ## 📊 PR0DUC71V17Y 4N4LY71C5
-> Powered by WakaTime + GitHub Actions (auto-updated daily)  
-> This section will include:
-> - Night 🦉 / Early 🐤  
-> - Most productive day  
-> - Weekly coding time  
-> - Languages / Editors / OS
+> Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 
+### ⏰ Coding Activity (This Week)
+
+```text
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+````
 
----	
+---
 
 ## 📈 W33KLY G17HUB 4C71V17Y
 
@@ -91,13 +93,13 @@ Thu  0 |
 Fri  0 | 
 Sat  0 | 
 <!--END_SECTION:ascii-week-->
-````
+```
 
 ---
 
 ## 📉 M0N7HLY G17HUB 4C71V17Y (L457 12 M0N7H5)
 
-> Real GitHub contributions aggregated by month.
+> Real GitHub contributions aggregated monthly.
 
 ```text
 <!--START_SECTION:ascii-month-->
@@ -118,23 +120,32 @@ Jun 2025 |
 <!--END_SECTION:ascii-month-->
 ```
 
----	
+---
 
 ## 📫 H0W 70 R34CH M3
-- Email: **hamidrn976@gmail.com**
-- Telegram: *your telegram link here*
-- GitHub: [**@h4m1dr**](https://github.com/h4m1dr)
+
+* Email: **[hz.gemini976@gmail.com](mailto:hz.gemini976@gmail.com)**
+* Telegram: *your-telegram-link*
+* GitHub: [**@h4m1dr**](https://github.com/h4m1dr)
 
 ---
 
 ## 🎯 R04DM4P
-- [ ] Add dashboard monitoring UI  
-- [ ] Release full MTProto monitoring suite  
-- [ ] Publish Linux toolkits  
-- [ ] Improve project documentation  
-- [ ] Build multi-backend bot system  
+
+* [ ] Add dashboard monitoring UI
+* [ ] Release full MTProto monitoring suite
+* [ ] Publish Linux helper scripts
+* [ ] Improve documentation for all public repos
+* [ ] Expand automation tools
 
 ---
 
 ## 🧿 PR0F1L3 V13W5
+
 <img src="https://komarev.com/ghpvc/?username=h4m1dr&color=blue" />
+
+---
+
+````
+
+---
