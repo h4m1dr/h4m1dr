@@ -14,14 +14,40 @@ I believe in writing code that *just works*, and monitoring systems that fail as
 
 ---
 
-## 🛠 L4NGU4G35 & T00L5
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,bash,linux,cloudflare,nginx,docker,git,github" />
-</p>
+## ⭐ F4V0R173 73CH
+Tools, languages, and technologies I enjoy working with.
 
-- **Main stack:** Node.js, Python, Bash  
-- **Infra:** Linux servers, Nginx, Cloudflare  
-- **Domain:** MTProto, Telegram Bots, monitoring, CLI tools  
+<table>
+  <tr>
+    <td><strong>Node.js</strong></td>
+    <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><strong>Bash / Shell</strong></td>
+    <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><strong>Linux</strong></td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
+  </tr>
+  <tr>
+    <td><strong>Docker</strong></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><strong>Cloudflare</strong></td>
+    <td><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><strong>MTProto</strong></td>
+    <td><img src="https://img.shields.io/badge/MTProto-1E8CBE?style=for-the-badge&logo=telegram&logoColor=white"/></td>
+  </tr>
+</table>
+
 
 ---
 
