@@ -1,8 +1,8 @@
 ## 👋 H3Y, 1'M H4M1DR
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 25px; margin-top: 10px;">
 <tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding-right: 20px;">
+<td width="50%" valign="top" style="border: none; padding: 25px 25px 25px 0;">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -13,12 +13,12 @@ I work with data-heavy pipelines, write **Python backends**,
 build **headless crawlers**, design **custom ML workflows**,  
 and often experiment with tools used in high-energy physics simulations.
 
-I enjoy turning complex systems into minimal, elegant solutions 
+I enjoy turning complex systems into minimal, elegant solutions—  
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
-<td width="50%" valign="top" style="border: none; padding-left: 20px;">
+<td width="50%" valign="top" style="border: none; padding: 25px 0 25px 25px;">
 
 ### 🧩 Personal Stuff
 
