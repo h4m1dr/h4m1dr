@@ -13,7 +13,7 @@ I work with data-heavy pipelines, write **Python backends**,
 build **headless crawlers**, design **custom ML workflows**,  
 and often experiment with tools used in high-energy physics simulations.
 
-I enjoy turning complex systems into minimal, elegant solutions—  
+I enjoy turning complex systems into minimal, elegant solutions 
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
