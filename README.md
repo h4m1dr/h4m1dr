@@ -1,7 +1,5 @@
 ## 👋 H3Y, 1'M H4M1DR
 
-<br/>
-
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding-right: 20px;">
