@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -20,8 +20,7 @@ whether it's parsing messy data, optimizing models,
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
-<td width="70%" valign="top">
-
+<td width="50%" valign="top">
 ### 🧩 Personal Stuff
 
 - 🌎 Based in **Iran**  
@@ -31,6 +30,7 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 - 🤖 Strong experience in **AI prompting** & building AI-assisted tools  
 - 🧱 Currently exploring advanced ML applications in particle physics  
 - 💬 Always open to ideas, collaboration, or technical discussions  
+
 
 </td>
 </tr>
