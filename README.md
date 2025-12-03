@@ -15,7 +15,7 @@ I work with data-heavy pipelines, write **Python backends**,
 build **headless crawlers**, design **custom ML workflows**,  
 and often experiment with tools used in high-energy physics simulations.
 
-I enjoy turning complex systems into minimal, elegant solutions—  
+I enjoy turning complex systems into minimal, elegant solutions 
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
@@ -24,7 +24,7 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 ### 🧩 Personal Stuff
 
-- 🌎 Based in **Tehran, Iran**  
+- 🌎 Based in **Iran**  
 - 🎓 Background in **Particle Physics** (M.Sc.)  
 - 🧠 Skills: Python, ML, data engineering, automation, headless tooling  
 - 🔬 Familiar with scientific stacks: **ROOT**, **Geant4**, **MadGraph**, **Pythia**  
