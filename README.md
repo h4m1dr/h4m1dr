@@ -4,7 +4,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-right: 20px;">
+
+<td width="50%" valign="top" style="
+  padding: 20px;
+  border: 1px solid #444;
+  border-radius: 8px;
+">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -21,7 +26,11 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
 
-<td width="50%" valign="top" style="padding-left: 20px;">
+<td width="50%" valign="top" style="
+  padding: 20px;
+  border: 1px solid #444;
+  border-radius: 8px;
+">
 
 ### 🧩 Personal Stuff
 
@@ -34,6 +43,7 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 - 💬 Always open to ideas, collaboration, or technical discussions  
 
 </td>
+
 </tr>
 </table>
 
