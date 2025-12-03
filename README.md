@@ -17,7 +17,8 @@ I enjoy turning complex systems into minimal, elegant solutions—
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
-
+</table>
+<table>
 
 ### 🧩 Personal Stuff
 
