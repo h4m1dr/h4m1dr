@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -20,7 +20,7 @@ whether it's parsing messy data, optimizing models,
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ### 🧩 Personal Stuff
 
