@@ -1,0 +1,45 @@
+name: Update ASCII GitHub Activity
+
+on:
+  schedule:
+    - cron: "30 3 * * *"  # هر روز ساعت 03:30 UTC
+  workflow_dispatch:
+
+jobs:
+  update-ascii-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate ASCII charts
+        env:
+          GITHUB_USERNAME: "h4m1dr"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python scripts/update_ascii_activity.py
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "chore: update ascii github activity"
+            git push
+          fi

@@ -73,7 +73,52 @@ Tools, languages, and other things that I like to work with.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---	
+
+## 📈 W33KLY G17HUB 4C71V17Y
+
+> Real GitHub contributions for the last 7 days (commits, PRs, issues, etc.)
+
+```text
+<!--START_SECTION:ascii-week-->
+# waiting for first update...
+
+Sun  0 | 
+Mon  0 | 
+Tue  0 | 
+Wed  0 | 
+Thu  0 | 
+Fri  0 | 
+Sat  0 | 
+<!--END_SECTION:ascii-week-->
+````
+
 ---
+
+## 📉 M0N7HLY G17HUB 4C71V17Y (L457 12 M0N7H5)
+
+> Real GitHub contributions aggregated by month.
+
+```text
+<!--START_SECTION:ascii-month-->
+# waiting for first update...
+
+Jul 2024 | 
+Aug 2024 | 
+Sep 2024 | 
+Oct 2024 | 
+Nov 2024 | 
+Dec 2024 | 
+Jan 2025 | 
+Feb 2025 | 
+Mar 2025 | 
+Apr 2025 | 
+May 2025 | 
+Jun 2025 | 
+<!--END_SECTION:ascii-month-->
+```
+
+---	
 
 ## 📫 H0W 70 R34CH M3
 - Email: **hamidrn976@gmail.com**
