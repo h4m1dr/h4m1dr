@@ -1,6 +1,3 @@
----
-
-````md
 ## Hi there 👋
 
 <!-- HEADER -->
@@ -143,9 +140,5 @@ Jun 2025 |
 ## 🧿 PR0F1L3 V13W5
 
 <img src="https://komarev.com/ghpvc/?username=h4m1dr&color=blue" />
-
----
-
-````
 
 ---
