@@ -17,51 +17,38 @@ I believe in writing code that *just works*, and monitoring systems that fail as
 ## ⭐ F4V0R173 73CH
 Tools, languages, and other things that I like to work with.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <!-- Node.js -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-    <div>Node.js</div>
-  </div>
-
-  <!-- Python -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-    <div>Python</div>
-  </div>
-
-  <!-- Bash -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-    <div>Bash</div>
-  </div>
-
-  <!-- Linux -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-    <div>Linux</div>
-  </div>
-
-  <!-- Docker -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-    <div>Docker</div>
-  </div>
-
-  <!-- Cloudflare -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40"/>
-    <div>Cloudflare</div>
-  </div>
-
-  <!-- MTProto -->
-  <div style="border: 1px solid #333; padding: 10px; width: 110px; text-align: center; border-radius: 6px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40"/>
-    <div>MTProto</div>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      <br />Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="48" height="48" alt="Cloudflare" />
+      <br />Cloudflare
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="MTProto" />
+      <br />MTProto
+    </td>
+  </tr>
+</table>
 
 
 
