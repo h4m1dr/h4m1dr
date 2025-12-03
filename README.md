@@ -76,20 +76,15 @@ Tools, languages, and other things that I like to work with.
 > Real GitHub contributions for the last 7 days (commits, PRs, issues, etc.)
 
 <!--START_SECTION:ascii-week-->
-```text
 # Weekly GitHub Activity (contributions)
 
-# waiting for first update...
-
-Sun  0 | 
-Mon  0 | 
-Tue  0 | 
-Wed  0 | 
-Thu  0 | 
-Fri  0 | 
-Sat  0 | 
-````
-
+Thu    7 | ██████████████████████████████
+Fri    0 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Sat    0 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Sun    0 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Mon    2 | ████████░░░░░░░░░░░░░░░░░░░░░░
+Tue    6 | █████████████████████████░░░░░
+Wed    5 | █████████████████████░░░░░░░░░
 <!--END_SECTION:ascii-week-->
 
 
@@ -99,25 +94,20 @@ Sat  0 |
 > Real GitHub contributions aggregated monthly.
 
 <!--START_SECTION:ascii-month-->
-```text
 # Monthly GitHub Activity (last 12 months)
 
-# waiting for first update...
-
-Jul 2024 | 
-Aug 2024 | 
-Sep 2024 | 
-Oct 2024 | 
-Nov 2024 | 
-Dec 2024 | 
-Jan 2025 | 
-Feb 2025 | 
-Mar 2025 | 
-Apr 2025 | 
-May 2025 | 
-Jun 2025 | 
-````
-
+Jan 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
+Feb 2025 | █████████░░░░░░░░░░░░░░░░░░░░░     4
+Mar 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
+Apr 2025 | ████░░░░░░░░░░░░░░░░░░░░░░░░░░     2
+May 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
+Jun 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
+Jul 2025 | ████░░░░░░░░░░░░░░░░░░░░░░░░░░     2
+Aug 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
+Sep 2025 | ████░░░░░░░░░░░░░░░░░░░░░░░░░░     2
+Oct 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
+Nov 2025 | ████████████████░░░░░░░░░░░░░░     7
+Dec 2025 | ██████████████████████████████    13
 <!--END_SECTION:ascii-month-->
 
 
