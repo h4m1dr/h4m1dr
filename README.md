@@ -1,18 +1,27 @@
 ## Hi there 👋
 
-<!-- HEADER -->
-<h1 align="center">👋 H3LL0, 1'M H4M1DR</h1>
-<h3 align="center">Backend • MTProto • Bots • Linux • Monitoring</h3>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
----
+  <!-- Left Column -->
+  <div style="flex: 1; min-width: 280px;">
 
-## 🔥 1NTRODUCT10N
+### 👋 Hey, I'm Hamid.
 
-Hi, I'm **h4m1dr** — a backend developer who enjoys building fast, minimal, and efficient systems.  
-I mostly work with **Node.js**, **Python**, **MTProto**, **Telegram Bots**, and various **Linux server tools**.
+I’m a physics-trained developer exploring the intersection of  
+**Particle Physics**, **Machine Learning**, and **automation engineering**.
 
-I believe in writing code that *just works*, and monitoring systems that scream in logs before they die.
+I work with data-heavy pipelines, write **Python backends**,  
+build **headless crawlers**, design **custom ML workflows**,  
+and often experiment with tools used in high-energy physics simulations.
 
+I enjoy turning complex systems into minimal, elegant solutions—  
+whether it's parsing messy data, optimizing models,   
+or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
+
+  </div>
+
+  <!-- Right Column -->
+  <div style="flex: 1; min-width: 280px;">
 ---
 
 ## ⭐ F4V0R173 73CH
@@ -188,7 +197,7 @@ Dec 2025 | ███████████████████████
 
 ## 📫 H0W 70 R34CH M3
 
-* Email: **[hz.gemini976@gmail.com](mailto:hz.gemini976@gmail.com)**
+* Email: **[hamidrn976@gmail.com](mailto:hamidrn976@gmail.com)**
 * Telegram: *your-telegram-link*
 * GitHub: [**@h4m1dr**](https://github.com/h4m1dr)
 
