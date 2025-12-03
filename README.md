@@ -47,7 +47,7 @@ I believe in writing code that *just works*, and monitoring systems that fail as
 ---
 
 ## 📫 H0W 70 R34CH M3
-- Email: **hz.gemini976@gmail.com**
+- Email: **hamidrn976@gmail.com**
 - Telegram: *your telegram link here*
 - GitHub: [**@h4m1dr**](https://github.com/h4m1dr)
 
