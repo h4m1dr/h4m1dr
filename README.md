@@ -1,8 +1,8 @@
 ## 👋 H3Y, 1'M H4M1DR
 
-<table style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 25px; margin-top: 10px;">
+<table style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 100px; margin-top: 50px;">
 <tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding: 25px 25px 25px 0;">
+<td width="50%" valign="top" style="border: none; padding: 50px 50px 50px 0;">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -18,7 +18,7 @@ whether it's parsing messy data, optimizing models,
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
-<td width="50%" valign="top" style="border: none; padding: 25px 0 25px 25px;">
+<td width="50%" valign="top" style="border: none; padding: 50px 0 50px 50px;">
 
 ### 🧩 Personal Stuff
 
