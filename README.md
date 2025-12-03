@@ -22,6 +22,21 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
   <!-- Right Column -->
   <div style="flex: 1; min-width: 280px;">
+
+### 🧩 Personal Stuff
+
+- 🌎 Based in **Tehran, Iran**
+- 🎓 Background in **Particle Physics** (M.Sc.)
+- 🧠 Skills: Python, ML, data engineering, automation, headless tooling  
+- 🔬 Familiar with scientific stacks: **ROOT**, **Geant4**, **MadGraph**, **Pythia**
+- 🤖 Strong experience in **AI prompting** & building AI-assisted tools
+- 🧱 Currently exploring advanced ML applications in particle physics
+- 💬 Always open to ideas, collaboration, or technical discussions
+
+  </div>
+
+</div>
+
 ---
 
 ## ⭐ F4V0R173 73CH
