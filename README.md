@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+## 👋 H3Y, 1'M H4M1DR
 
-  <!-- Left Column -->
-  <div style="flex: 1; min-width: 280px;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -14,28 +15,26 @@ I work with data-heavy pipelines, write **Python backends**,
 build **headless crawlers**, design **custom ML workflows**,  
 and often experiment with tools used in high-energy physics simulations.
 
-I enjoy turning complex systems into minimal, elegant solutions  
-whether it's parsing messy data, optimizing models,   
+I enjoy turning complex systems into minimal, elegant solutions—  
+whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
-  </div>
-
-  <!-- Right Column -->
-  <div style="flex: 1; min-width: 280px;">
+</td>
+<td width="50%" valign="top">
 
 ### 🧩 Personal Stuff
 
-- 🌎 Based in **Tehran, Iran**
-- 🎓 Background in **Particle Physics** (M.Sc.)
+- 🌎 Based in **Tehran, Iran**  
+- 🎓 Background in **Particle Physics** (M.Sc.)  
 - 🧠 Skills: Python, ML, data engineering, automation, headless tooling  
-- 🔬 Familiar with scientific stacks: **ROOT**, **Geant4**, **MadGraph**, **Pythia**
-- 🤖 Strong experience in **AI prompting** & building AI-assisted tools
-- 🧱 Currently exploring advanced ML applications in particle physics
-- 💬 Always open to ideas, collaboration, or technical discussions
+- 🔬 Familiar with scientific stacks: **ROOT**, **Geant4**, **MadGraph**, **Pythia**  
+- 🤖 Strong experience in **AI prompting** & building AI-assisted tools  
+- 🧱 Currently exploring advanced ML applications in particle physics  
+- 💬 Always open to ideas, collaboration, or technical discussions  
 
-  </div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
