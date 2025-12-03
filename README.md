@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-right: 20px;">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -21,7 +21,7 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 ### 🧩 Personal Stuff
 
@@ -36,9 +36,6 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 </td>
 </tr>
 </table>
-
-
-
 
 ---
 
@@ -90,7 +87,7 @@ Tools, languages, and other things that I like to work with.
 ---
 
 ## 📊 PR0DUC71V17Y 4N4LY71C5
-> Powered by **WakaTime** + GitHub Actions (auto-updated daily)
+Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 
 ### ⏰ Coding Activity (This Week)
 
@@ -103,16 +100,12 @@ Tools, languages, and other things that I like to work with.
 
 **🐱 My GitHub Data** 
 
-> 📦 409 Bytes Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+> 📦 409 Bytes Used in GitHub's Storage  
+> 🏆 27 Contributions in the Year 2025  
+> 🚫 Not Opted to Hire  
+> 📜 6 Public Repositories  
+> 🔑 0 Private Repositories  
+
 **I'm a Night 🦉** 
 
 ```text
@@ -120,8 +113,9 @@ Tools, languages, and other things that I like to work with.
 🌆 Daytime                10 commits          █████████░░░░░░░░░░░░░░░░   37.04 % 
 🌃 Evening                8 commits           ███████░░░░░░░░░░░░░░░░░░   29.63 % 
 🌙 Night                  7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-```
-📅 **I'm Most Productive on Thursday** 
+````
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
 Monday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
@@ -133,8 +127,7 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: UTC
@@ -152,7 +145,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Shell**
 
 ```text
 Shell                    3 repos             ███████████████░░░░░░░░░░   60.00 % 
@@ -160,22 +153,22 @@ Python                   1 repo              █████░░░░░░�
 HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
+*Last Updated on 03/12/2025 17:05:54 UTC*
 
- Last Updated on 03/12/2025 17:05:54 UTC
 <!--END_SECTION:waka-->
 
 ---
 
 ## 📈 W33KLY G17HUB 4C71V17Y
-> Real GitHub contributions for the last 7 days (commits, PRs, issues, etc.)
+
+Real GitHub contributions for the last 7 days (commits, PRs, issues, etc.)
 
 <!--START_SECTION:ascii-week-->
+
 # Weekly GitHub Activity (contributions)
 
 Thu    7 | ██████████████████████████████
@@ -185,15 +178,17 @@ Sun    0 | ░░░░░░░░░░░░░░░░░░░░░░░
 Mon    2 | ████████░░░░░░░░░░░░░░░░░░░░░░
 Tue    6 | █████████████████████████░░░░░
 Wed    5 | █████████████████████░░░░░░░░░
-<!--END_SECTION:ascii-week-->
 
+<!--END_SECTION:ascii-week-->
 
 ---
 
 ## 📉 M0N7HLY G17HUB 4C71V17Y (L457 12 M0N7H5)
-> Real GitHub contributions aggregated monthly.
+
+Real GitHub contributions aggregated monthly.
 
 <!--START_SECTION:ascii-month-->
+
 # Monthly GitHub Activity (last 12 months)
 
 Jan 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
@@ -208,8 +203,8 @@ Sep 2025 | ████░░░░░░░░░░░░░░░░░░░
 Oct 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
 Nov 2025 | ████████████████░░░░░░░░░░░░░░     7
 Dec 2025 | ██████████████████████████████    13
-<!--END_SECTION:ascii-month-->
 
+<!--END_SECTION:ascii-month-->
 
 ---
 
@@ -217,7 +212,7 @@ Dec 2025 | ███████████████████████
 
 * Email: **[hamidrn976@gmail.com](mailto:hamidrn976@gmail.com)**
 * Telegram: *your-telegram-link*
-* GitHub: [**@h4m1dr**](https://github.com/h4m1dr)
+* GitHub: **@h4m1dr**
 
 ---
 
