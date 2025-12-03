@@ -3,8 +3,6 @@
 <br/>
 
 <table>
-<tr>
-<td width="50%" valign="top" style="padding-right: 0px;">
 
 ### 👋 Hey, I'm Hamid.
 
@@ -19,9 +17,7 @@ I enjoy turning complex systems into minimal, elegant solutions—
 whether it's parsing messy data, optimizing models,  
 or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 
-</td>
 
-<td width="50%" valign="top" style="padding-left: 0px;">
 
 ### 🧩 Personal Stuff
 
@@ -33,8 +29,7 @@ or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
 - 🧱 Currently exploring advanced ML applications in particle physics  
 - 💬 Always open to ideas, collaboration, or technical discussions  
 
-</td>
-</tr>
+
 </table>
 
 
