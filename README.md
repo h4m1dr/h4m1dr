@@ -160,7 +160,7 @@ Python                   2 repos             ██████████░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
+![Top Languages](https://raw.githubusercontent.com/h4m1dr/h4m1dr-lang-stats/main/assets/top_langs.svg)
 
 
  Last Updated on 04/12/2025 02:43:59 UTC
