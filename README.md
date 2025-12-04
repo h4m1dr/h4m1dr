@@ -89,15 +89,15 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 534 Bytes Used in GitHub's Storage 
+> 📦 576 Bytes Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2025
+> 🏆 63 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,19 +108,19 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-🌆 Daytime                23 commits          ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌃 Evening                21 commits          █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌙 Night                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+🌆 Daytime                23 commits          ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌃 Evening                21 commits          █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌙 Night                  13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Wednesday                33 commits          ██████████████░░░░░░░░░░░   57.89 % 
-Thursday                 15 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Wednesday                33 commits          ██████████████░░░░░░░░░░░   56.90 % 
+Thursday                 16 commits          ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -160,10 +160,10 @@ Python                   2 repos             ██████████░�
 
 **Timeline**
 
-![Top Languages](https://raw.githubusercontent.com/h4m1dr/h4m1dr-lang-stats/main/assets/top_langs.svg)
+![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2025 02:43:59 UTC
+ Last Updated on 04/12/2025 18:52:27 UTC
 <!--END_SECTION:waka-->
 
 ---
