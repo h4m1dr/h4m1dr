@@ -89,73 +89,37 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 409 Bytes Used in GitHub's Storage  
-> 🏆 27 Contributions in the Year 2025  
-> 🚫 Not Opted to Hire  
-> 📜 6 Public Repositories  
-> 🔑 0 Private Repositories  
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-🌆 Daytime                10 commits          █████████░░░░░░░░░░░░░░░░   37.04 % 
-🌃 Evening                8 commits           ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌙 Night                  7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-```
-
-📅 **I'm Most Productive on Thursday**
-
-```text
-Monday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  5 commits           █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Wednesday                7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Thursday                 10 commits          █████████░░░░░░░░░░░░░░░░   37.04 % 
-Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: UTC
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Shell**
+> 📦 523 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 59 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Shell** 
 
 ```text
 Shell                    3 repos             ███████████████░░░░░░░░░░   60.00 % 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
-*Last Updated on 03/12/2025 17:05:54 UTC*
 
+ Last Updated on 04/12/2025 02:05:32 UTC
 <!--END_SECTION:waka-->
 
 ---
