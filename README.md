@@ -89,15 +89,15 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 523 Bytes Used in GitHub's Storage 
+> 📦 534 Bytes Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2025
+> 🏆 62 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,6 +105,50 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+🌆 Daytime                23 commits          ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌃 Evening                21 commits          █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌙 Night                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Wednesday                33 commits          ██████████████░░░░░░░░░░░   57.89 % 
+Thursday                 15 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: UTC
+
+💬 Programming Languages: 
+Other                    3 hrs 47 mins       ████████████████████░░░░░   79.25 % 
+Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+
+🔥 Editors: 
+Chrome                   4 hrs 47 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+h4m1dr                   4 hrs 7 mins        ██████████████████████░░░   86.04 % 
+Unknown Project          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Jackyu-1999              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+MacroPower               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+sciencepal               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+
+💻 Operating System: 
+Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -119,7 +163,7 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2025 02:05:32 UTC
+ Last Updated on 04/12/2025 02:37:27 UTC
 <!--END_SECTION:waka-->
 
 ---
