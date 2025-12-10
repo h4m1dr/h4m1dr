@@ -162,7 +162,8 @@ Shell                    3 repos             ███████████�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
+
+![Top Languages](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/top_langs.svg)
 
 
  Last Updated on 09/12/2025 18:51:57 UTC
