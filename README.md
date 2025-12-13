@@ -89,13 +89,13 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 604 Bytes Used in GitHub's Storage 
+> 📦 605 Bytes Used in GitHub's Storage 
  > 
 > 🏆 77 Contributions in the Year 2025
  > 
@@ -132,20 +132,20 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Other                    12 hrs 15 mins      ████████████████████████░   94.38 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    10 hrs 50 mins      ███████████████████████░░   93.73 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 59 mins      █████████████████████████   100.00 % 
+Chrome                   11 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-h4m1dr                   9 hrs 2 mins        █████████████████░░░░░░░░   69.63 % 
-h4m1dr-lang-stats        2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-h4m1dr-profile-stats     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-h4m1dr-stats             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+h4m1dr                   9 hrs 29 mins       █████████████████████░░░░   82.01 % 
+h4m1dr-profile-stats     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+h4m1dr-lang-stats        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+h4m1dr-stats             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  12 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Shell                    3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 18:53:34 UTC
+ Last Updated on 13/12/2025 18:45:19 UTC
 <!--END_SECTION:waka-->
 
 ---
