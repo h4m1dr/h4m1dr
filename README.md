@@ -89,13 +89,13 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 605 Bytes Used in GitHub's Storage 
+> 📦 606 Bytes Used in GitHub's Storage 
  > 
 > 🏆 77 Contributions in the Year 2025
  > 
@@ -132,20 +132,18 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Other                    10 hrs 50 mins      ███████████████████████░░   93.73 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Other                    6 hrs 49 mins       ████████████████████████░   97.71 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 33 mins      █████████████████████████   100.00 % 
+Chrome                   6 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-h4m1dr                   9 hrs 29 mins       █████████████████████░░░░   82.01 % 
-h4m1dr-profile-stats     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-h4m1dr-lang-stats        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-h4m1dr-stats             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+h4m1dr                   6 hrs 58 mins       █████████████████████████   99.93 % 
+h4m1dr-profile-stats     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +160,7 @@ Shell                    3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 18:48:00 UTC
+ Last Updated on 14/12/2025 18:46:30 UTC
 <!--END_SECTION:waka-->
 
 ---
