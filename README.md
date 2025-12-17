@@ -89,13 +89,13 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 610 Bytes Used in GitHub's Storage 
+> 📦 612 Bytes Used in GitHub's Storage 
  > 
 > 🏆 77 Contributions in the Year 2025
  > 
@@ -132,18 +132,18 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Other                    6 hrs 16 mins       ████████████████████████░   97.52 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Other                    5 hrs 8 mins        ████████████████████████░   96.98 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 25 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-h4m1dr                   6 hrs 25 mins       █████████████████████████   99.93 % 
-h4m1dr-profile-stats     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+h4m1dr                   5 hrs 17 mins       █████████████████████████   99.91 % 
+h4m1dr-profile-stats     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  6 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +160,7 @@ Shell                    3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 18:55:19 UTC
+ Last Updated on 17/12/2025 18:52:53 UTC
 <!--END_SECTION:waka-->
 
 ---
