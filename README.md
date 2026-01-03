@@ -89,6 +89,8 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -103,6 +105,45 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+🌆 Daytime                24 commits          █████████░░░░░░░░░░░░░░░░   34.29 % 
+🌃 Evening                21 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌙 Night                  23 commits          ████████░░░░░░░░░░░░░░░░░   32.86 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Tuesday                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Wednesday                34 commits          ████████████░░░░░░░░░░░░░   48.57 % 
+Thursday                 21 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: UTC
+
+💬 Programming Languages: 
+Other                    12 hrs 34 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   12 hrs 34 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+h4m1dr                   12 hrs 34 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  12 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +158,7 @@ Shell                    3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:47:53 UTC
+ Last Updated on 03/01/2026 18:51:12 UTC
 <!--END_SECTION:waka-->
 
 ---
