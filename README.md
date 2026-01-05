@@ -89,13 +89,13 @@ Powered by **WakaTime** + GitHub Actions (auto-updated daily)
 ### ⏰ Coding Activity (This Week)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 636 Bytes Used in GitHub's Storage 
+> 📦 622 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -132,16 +132,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Other                    15 hrs 2 mins       █████████████████████████   100.00 % 
+Other                    13 hrs 32 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 2 mins       █████████████████████████   100.00 % 
+Chrome                   13 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-h4m1dr                   15 hrs 2 mins       █████████████████████████   100.00 % 
+h4m1dr                   13 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +158,7 @@ Shell                    3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:51:27 UTC
+ Last Updated on 05/01/2026 18:52:54 UTC
 <!--END_SECTION:waka-->
 
 ---
