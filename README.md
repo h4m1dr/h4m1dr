@@ -132,17 +132,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Other                    4 hrs 23 mins       ████████████████████████░   97.04 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 31 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-h4m1dr                   4 hrs 31 mins       █████████████████████████   100.00 % 
+h4m1dr                   3 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +158,7 @@ Shell                    3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/h4m1dr/h4m1dr/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 19:33:51 UTC
+ Last Updated on 13/02/2026 19:24:14 UTC
 <!--END_SECTION:waka-->
 
 ---
