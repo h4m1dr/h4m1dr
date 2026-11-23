@@ -1,38 +1,54 @@
-## 👋 H3Y, 1'M H4M1DR
+<!-- neofetch terminal-card redesign (2026-11-23). Future-projects list is read from the Obsidian vault (☆Tasks) and refreshed regularly. WakaTime/activity sections below are auto-updated by Actions — do not hand-edit inside the markers. -->
 
-<table style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 100px; margin-top: 50px;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding: 50px 50px 50px 0;">
+<td valign="top" style="border: none; padding-right: 24px;">
 
-### 👋 Hey, I'm Hamid.
-
-I’m a physics-trained developer exploring the intersection of  
-**Particle Physics**, **Machine Learning**, and **automation engineering**.
-
-I work with data-heavy pipelines, write **Python backends**,  
-build **headless crawlers**, design **custom ML workflows**,  
-and often experiment with tools used in high-energy physics simulations.
-
-I enjoy turning complex systems into minimal, elegant solutions 
-whether it's parsing messy data, optimizing models,  
-or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
+<pre>
+         .
+    .         .
+  .    _____    .
+      /     \
+  .  |   ●   |  .
+      \_____/
+    .         .
+         .
+</pre>
 
 </td>
-<td width="50%" valign="top" style="border: none; padding: 50px 0 50px 50px;">
+<td valign="top" style="border: none;">
 
-### 🧩 Personal Stuff
-
-- 🌎 Based in **Tehran, Iran**  
-- 🎓 Background in **Particle Physics** (M.Sc.)  
-- 🧠 Skills: Python, ML, data engineering, automation, headless tooling  
-- 🔬 Familiar with scientific stacks: **ROOT**, **Geant4**, **MadGraph**, **Pythia**  
-- 🤖 Strong experience in **AI prompting** & building AI-assisted tools  
-- 🧱 Currently exploring advanced ML applications in particle physics  
-- 💬 Always open to ideas, collaboration, or technical discussions  
+<pre>
+<b>h4m1dr@physics</b>
+─────────────────
+<b>Role:</b> Physics-trained Developer
+<b>Kernel:</b> Particle Physics (M.Sc.)
+<b>Host:</b> Tehran, Iran
+<b>Focus:</b> Particle Physics × ML × Automation
+<b>Tools:</b> ROOT, Geant4, MadGraph, Pythia
+<b>Stack:</b> Python backends, headless crawlers
+<b>Languages:</b> Python, TypeScript, Bash
+<b>Projects.Featured:</b> MTProMonitorbot, Multifon
+<b>Contact:</b> h4m1drn@gmail.com / @h4m1dr
+<b>GitHub Stats:</b> Repos 25
+<b>Resume:</b> https://h4m1dr.ir
+</pre>
 
 </td>
 </tr>
 </table>
+
+I’m a physics-trained developer exploring the intersection of
+**Particle Physics**, **Machine Learning**, and **automation engineering**.
+
+I work with data-heavy pipelines, write **Python backends**,
+build **headless crawlers**, design **custom ML workflows**,
+and often experiment with tools used in high-energy physics simulations.
+
+I enjoy turning complex systems into minimal, elegant solutions
+whether it's parsing messy data, optimizing models,
+or crafting advanced AI-driven workflows through deep prompt-engineering. ⚡
+
 
 ---
 
@@ -80,6 +96,12 @@ Tools, languages, and other things that I like to work with.
 - **MTProMonitorbot-python** – Python version with auto-installer & scripts  
 - **Multifon** – Lightweight Telegram / MTProto utility toolkit  
 - More tools and optimizations coming soon…
+
+---
+
+## 📄 R35UM3
+
+My full academic résumé lives at **[h4m1dr.ir](https://h4m1dr.ir)** — the projects below are the code side of it. (The page itself is still being fixed up.)
 
 ---
 
@@ -210,14 +232,26 @@ Dec 2025 | ███████████████████████
 
 ## 📫 H0W 70 R34CH M3
 
-* Email: **[hamidrn976@gmail.com](mailto:hamidrn976@gmail.com)**
-* Telegram: *your-telegram-link*
+* Email: **[h4m1drn@gmail.com](mailto:h4m1drn@gmail.com)**
+* Telegram: **[@h4m1dr](https://t.me/h4m1dr)**
 * GitHub: **@h4m1dr**
 
 ---
 
-## 🎯 R04DM4P
+## 🎯 FUTUR3 PR0J3CT5 — from my Obsidian
 
+This list is read from my Obsidian vault and refreshed regularly. Percentages are my current progress estimate from the vault's checklists and the server's real state.
+
+| Project | Progress | Notes |
+|---|---|---|
+| **Agent on my own server** (nullclaw → nanobot → Hermes) | `█████████░░░░░░░░░░░░░` 30% | Prerequisites done (null domain + SSL, Docker conflicts, limits); monitoring backup + the agent itself still to do |
+| **9Router × OmniRouter** | `████████████░░░░░░░░░░` 40% | 9Router is live (0.5.119); OmniRouter trial, combo builds and the Gemini 403 fix still pending |
+| **Podcast pipeline** (NotebookLM / on-server) | `███░░░░░░░░░░░░░░░░░░░` 10% | Idea stage — trying NotebookLM, Colab from the phone, and podcasting on the server |
+| **Windows setup** | `████████████████░░░░░░` 53% | 8 of 15 apps/config done (Proxifier, Office, VM/Linux, Telegram/Discord, network, download manager…) |
+
+**Goals, not code:** learning English for career + migration, and daily energy / health — ongoing.
+
+**Roadmap checklist:**
 * [ ] Add dashboard monitoring UI
 * [ ] Release full MTProto monitoring suite
 * [ ] Publish Linux helper scripts
