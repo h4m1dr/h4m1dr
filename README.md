@@ -191,7 +191,8 @@ Real GitHub contributions for the last 7 days (commits, PRs, issues, etc.)
 
 <!--START_SECTION:ascii-week-->
 
-# Weekly GitHub Activity (contributions)
+```text
+Weekly GitHub Activity (contributions)
 
 Thu    7 | ██████████████████████████████
 Fri    0 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -200,6 +201,7 @@ Sun    0 | ░░░░░░░░░░░░░░░░░░░░░░░
 Mon    2 | ████████░░░░░░░░░░░░░░░░░░░░░░
 Tue    6 | █████████████████████████░░░░░
 Wed    5 | █████████████████████░░░░░░░░░
+```
 
 <!--END_SECTION:ascii-week-->
 
@@ -211,7 +213,8 @@ Real GitHub contributions aggregated monthly.
 
 <!--START_SECTION:ascii-month-->
 
-# Monthly GitHub Activity (last 12 months)
+```text
+Monthly GitHub Activity (last 12 months)
 
 Jan 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
 Feb 2025 | █████████░░░░░░░░░░░░░░░░░░░░░     4
@@ -225,6 +228,7 @@ Sep 2025 | ████░░░░░░░░░░░░░░░░░░░
 Oct 2025 | ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     0
 Nov 2025 | ████████████████░░░░░░░░░░░░░░     7
 Dec 2025 | ██████████████████████████████    13
+```
 
 <!--END_SECTION:ascii-month-->
 
