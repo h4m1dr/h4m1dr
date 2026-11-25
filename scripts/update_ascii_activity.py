@@ -67,7 +67,7 @@ def build_weekly_chart(daily):
     last_7_dates = [today - dt.timedelta(days=i) for i in range(6, -1, -1)]
 
     # GitHub week starts Sunday usually, ولی ما فقط ۷ روز آخر رو می‌گیریم
-    lines = ["# Weekly GitHub Activity (contributions)", ""]
+    lines = ["Weekly GitHub Activity (contributions)", ""]
     values = []
     labels = []
     for d in last_7_dates:
@@ -91,10 +91,17 @@ def build_weekly_chart(daily):
 def build_monthly_chart(daily):
     """ASCII chart for last 12 months (by total contributions per month)."""
     today = dt.date.today().replace(day=1)
+    # Proper calendar months (oldest -> newest); the old 30-day-step
+    # version could repeat a month and skip another one.
     months = []
-    for i in range(11, -1, -1):
-        m = today - dt.timedelta(days=30 * i)
-        months.append(m)
+    year, month = today.year, today.month
+    for _ in range(12):
+        months.append(dt.date(year, month, 1))
+        month -= 1
+        if month == 0:
+            month = 12
+            year -= 1
+    months = list(reversed(months))
 
     # aggregate per YYYY-MM
     month_totals = {}
@@ -103,7 +110,7 @@ def build_monthly_chart(daily):
         key = f"{y}-{m}"
         month_totals[key] = month_totals.get(key, 0) + count
 
-    lines = ["# Monthly GitHub Activity (last 12 months)", ""]
+    lines = ["Monthly GitHub Activity (last 12 months)", ""]
     values = []
     labels = []
     for m in months:
@@ -130,7 +137,10 @@ def replace_section(content: str, marker: str, new_block: str) -> str:
         rf"(<!--START_SECTION:{marker}-->)(.*?)(<!--END_SECTION:{marker}-->)",
         re.DOTALL,
     )
-    replacement = rf"\1\n{new_block}\n\3"
+    # Wrap the block in a ```text fence: without it GitHub renders the
+    # lines as one flowing paragraph (single newlines collapse) and the
+    # leading "# ..." line as a heading — that's the jumbled look.
+    replacement = rf"\1\n```text\n{new_block}\n```\n\3"
     if not pattern.search(content):
         print(f"[WARN] marker {marker} not found")
         return content
@@ -139,7 +149,7 @@ def replace_section(content: str, marker: str, new_block: str) -> str:
 
 def main():
     username = os.environ.get("GITHUB_USERNAME")
-    token = os.environ.get("GH_TOKEN")
+    token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 
     if not username or not token:
         print("GITHUB_USERNAME or GH_TOKEN env not set", file=sys.stderr)
